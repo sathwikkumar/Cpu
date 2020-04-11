@@ -1,0 +1,26 @@
+p
+{
+background-color:gold;
+padding-top:30px;
+padding-bottom:30px;
+padding-left:30px;
+padding-right:30px;
+}
+ h1{color:gold;
+text-align:center;
+}
+body{
+text-align:center;
+color:gold;
+background-image:url("nfspd.jpg");
+background-repeat:no-repeat;
+background-position:center;
+background-attachment:fixed;
+background-size:100%;
+font-family:castellar;
+padding:5px;
+font-size:18px;
+margin-top:160px;
+margin-left:30px;
+}
+

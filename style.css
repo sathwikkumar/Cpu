@@ -1,0 +1,18 @@
+ h1{color:gold;
+text-align:center;
+}
+body{
+text-align:center;
+color:gold;
+background-image:url("car.jpg");
+background-repeat:no-repeat;
+background-position:center;
+background-attachment:fixed;
+background-size:100%;
+font-family:Blade runner movie font;
+padding:5px;
+font-size:18px;
+margin-top:260px;
+margin-left:30px;
+}
+
